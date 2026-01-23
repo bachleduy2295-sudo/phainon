@@ -1,16 +1,13 @@
 h1 {
-  color: red;
+  color: blue;
 }
 .f1 {
-    color: tomato;
-  margin-top: 18pt;
-  margin-bottom: 12pt;
+    color: red;
   font-size: 20px;
-  font-weight: bold;
-  font-family: Arial;
 }
 .f2 {
     color: black;
-  margin-top: 6pt;
-  margin-bottom: 6pt;
-  font-size
+  font-size: 15pt;
+}
+
+  
