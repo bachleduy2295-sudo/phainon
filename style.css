@@ -11,11 +11,8 @@
 }
 
 .menu{
-     height: 90px;
-     background-color: darkblue;
-     display: flex;
-     align-items: center;
-     justify-content: space-around;
+     height: 120px !important;
+     background-color: red !important;
 }
 
 .menu a{
