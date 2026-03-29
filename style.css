@@ -8,8 +8,8 @@
     background-color: pink;
 }
 .menu{
-     flex: 10%;
-    background-color: darkblue;
+     height: 80px; /* hoặc 100px */
+     background-color: darkblue;
      display: flex;
      align-items: center;
 }
