@@ -11,14 +11,17 @@
 }
 
 .menu{
-     height: 120px !important;
-     background-color: red !important;
+     height: 90px;
+     background-color: darkblue;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
 }
 
 .menu a{
      padding: 20px 25px;
      font-size: 20px;
-     color: white; /* 🔥 thêm */
+     color: white; 
      text-decoration: none;
 }
 
@@ -27,6 +30,7 @@
      color: black;
 }
 
+/* CONTENT */
 .content{
      flex: 1;
 }
@@ -37,10 +41,12 @@
      border: none;
 }
 
+/* FOOTER */
 .footer{
      height: 60px;
 }
 
+/* TEXT */
 h1 {
      color: red;
 }
