@@ -8,7 +8,7 @@
     background-color: pink;
 }
 .menu{
-     flex: 5%;
+     flex: 10%;
     background-color: darkblue;
      display: flex;
      align-items: center;
