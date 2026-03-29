@@ -7,11 +7,11 @@
 .header img{
      width: 100%;
      height: 120px;
-     object-fit: cover; /* ảnh không bị méo */
+     object-fit: cover;
 }
 
 .menu{
-     height: 90px; /* tăng từ 80 → 90 */
+     height: 90px;
      background-color: darkblue;
      display: flex;
      align-items: center;
@@ -20,7 +20,14 @@
 
 .menu a{
      padding: 20px 25px;
-     font-size: 20px; /* chữ to hơn */
+     font-size: 20px;
+     color: white; /* 🔥 thêm */
+     text-decoration: none;
+}
+
+.menu a:hover{
+     background-color: lightblue;
+     color: black;
 }
 
 .content{
@@ -38,8 +45,9 @@
 }
 
 h1 {
-color:red;
+     color: red;
 }
+
 .f1{
   color: tomato;
   margin-top: 18pt;
@@ -48,27 +56,30 @@ color:red;
   font-weight: bold; 
   font-family: Arial;
 }
+
 .f2{
   color: purple;
   margin-top: 10pt;
-  margin-bottom: 6pt;
+  margin-bottom: 6pt; /* ✅ sửa */
   font-size: 15px;
-font-style: italic; 
+  font-style: italic; 
   font-family: Arial;
 }
+
 .f3{
   color: pink;
   margin-top: 18pt;
-  margin-bottom: 12pt;
+  margin-bottom: 12pt; /* ✅ sửa */
   font-size: 20px;
   font-weight: bold; 
   font-family: Arial;
 }
+
 .f4{
   color: black;
   margin-top: 10pt;
-  margin-bottom: 6pt;
+  margin-bottom: 6pt; /* ✅ sửa */
   font-size: 15px;
-font-style: normal; 
+  font-style: normal; 
   font-family: Arial;
 }
