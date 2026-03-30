@@ -11,7 +11,7 @@
 }
 
 .menu{
-     height: 90px;
+     flex:5%;
      background-color: darkblue;
      display: flex;
      align-items: center;
