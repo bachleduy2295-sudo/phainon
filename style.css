@@ -6,7 +6,6 @@
 
 .header{
      flex:5%;
-     height: 120px;
      object-fit: cover;
 }
 
