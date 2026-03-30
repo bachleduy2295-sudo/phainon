@@ -30,7 +30,6 @@
      color: black;
 }
 
-/* CONTENT */
 .content{
      flex: 1;
 }
@@ -41,12 +40,10 @@
      border: none;
 }
 
-/* FOOTER */
 .footer{
      height: 60px;
 }
 
-/* TEXT */
 h1 {
      color: red;
 }
@@ -63,7 +60,7 @@ h1 {
 .f2{
   color: purple;
   margin-top: 10pt;
-  margin-bottom: 6pt; /* ✅ sửa */
+  margin-bottom: 6pt; 
   font-size: 15px;
   font-style: italic; 
   font-family: Arial;
@@ -72,7 +69,7 @@ h1 {
 .f3{
   color: pink;
   margin-top: 18pt;
-  margin-bottom: 12pt; /* ✅ sửa */
+  margin-bottom: 12pt; 
   font-size: 20px;
   font-weight: bold; 
   font-family: Arial;
@@ -81,7 +78,7 @@ h1 {
 .f4{
   color: black;
   margin-top: 10pt;
-  margin-bottom: 6pt; /* ✅ sửa */
+  margin-bottom: 6pt; 
   font-size: 15px;
   font-style: normal; 
   font-family: Arial;
