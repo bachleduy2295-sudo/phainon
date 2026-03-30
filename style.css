@@ -1,7 +1,7 @@
 .container{
      display: flex;
      flex-direction: column;
-     height: 100vh;
+     flex:5%;
 }
 
 .header{
@@ -10,7 +10,7 @@
 }
 
 .menu{
-     flex:12%;
+     flex:5%;
      background-color: darkblue;
      display: flex;
      align-items: center;
@@ -30,7 +30,7 @@
 }
 
 .content{
-     flex: 70%;
+     flex:70%;
 }
 
 .content iframe{
