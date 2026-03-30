@@ -11,7 +11,7 @@
 }
 
 .menu{
-     flex:5%;
+     flex:100%;
      background-color: darkblue;
      display: flex;
      align-items: center;
